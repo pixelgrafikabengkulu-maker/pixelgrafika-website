@@ -1,0 +1,44 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background: #f4f4f4;
+}
+
+header {
+    background: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.hero {
+    padding: 50px;
+    text-align: center;
+    background: white;
+}
+
+button {
+    padding: 15px 30px;
+    background: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.card {
+    background: white;
+    margin: 20px;
+    padding: 20px;
+}
